@@ -51,25 +51,25 @@ No API key required. The project uses open-source transformer models for resume 
 
 ### Clone the Repository
 
-```bash
+\`\`\`bash
 git clone https://github.com/Charuhasini30/ai-interview-coach.git
-```
+\`\`\`
 
 ### Backend Setup
 
-```bash
+\`\`\`bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
-```
+\`\`\`
 
 ### Frontend Setup
 
-```bash
+\`\`\`bash
 cd frontend
 npm install
 npm run dev
-```
+\`\`\`
 
 ## Open Source Friendly
 
@@ -104,15 +104,6 @@ This project is open to all contributors.
 No assignment is required. Feel free to fork the repository, work on any open issue, and submit a pull request.
 
 If multiple pull requests are submitted for the same issue, the best implementation will be reviewed and merged.
-
-## Good First Issues
-
-* Add company-specific interview questions
-* Improve UI/UX
-* Add dark mode
-* Improve documentation
-* Add new learning roadmaps
-
 
 ## Good First Issues
 
