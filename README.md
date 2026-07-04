@@ -51,25 +51,25 @@ No API key required. The project uses open-source transformer models for resume 
 
 ### Clone the Repository
 
-```bash
+\`\`\`bash
 git clone https://github.com/Charuhasini30/ai-interview-coach.git
-```
+\`\`\`
 
 ### Backend Setup
 
-```bash
+\`\`\`bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
-```
+\`\`\`
 
 ### Frontend Setup
 
-```bash
+\`\`\`bash
 cd frontend
 npm install
 npm run dev
-```
+\`\`\`
 
 ## Open Source Friendly
 
